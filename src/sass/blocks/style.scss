@@ -1,5 +1,14 @@
+@import '../libs/bootstrap-reboot.min';
+@import '../libs/fonts';
+@import '../libs/slick';
+@import '../libs/animate';
+
+
 * {
 	font-family: 'Museo Sans Cyrl', sans-serif;
+}
+html {
+	scroll-behavior: smooth;
 }
 
 .container {
@@ -21,3 +30,5 @@
 @import 'feed';
 @import 'footer';
 @import 'modal';
+@import 'pageup';
+// @import 'anitamations';

@@ -25,6 +25,7 @@
     "not dead"
   ],
   "dependencies": {
+    "animate.css": "^4.1.1",
     "tiny-slider": "^2.9.4"
   }
 }
